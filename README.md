@@ -22,4 +22,4 @@ solidipes
 
 ## discovery and harvesting
 
-epfl graph
+epfl graphsearch
